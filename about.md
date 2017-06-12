@@ -1,6 +1,6 @@
 ---
-layout: page
-title: "About"
-description: ""
+layout: default
+title: About Vinit Kumar
 ---
-{% include JB/setup %}
+
+{{site.about}}
