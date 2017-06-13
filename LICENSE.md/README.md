@@ -1,5 +1,5 @@
 # Blog
-A blog made with [Jekyll](http://jekyllrb.com).
+A blog made with [Jekyll](http://jekyllrb.com) and hosted with Github Pages.
 
 
 ### Install
