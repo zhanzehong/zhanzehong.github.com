@@ -1,12 +1,12 @@
-title: John Smith
+title: Zhan ZeHong
 description: My Personal Blog
-author: John Smith
+author: Zhan ZeHong
 logo: /hcz-jekyll-blog/static/img/avatar.png
-github: https://github.com/codeasashu
+github: https://github.com/zhanzehong
 about: Freelance developer
 
-baseurl: "https://codeasashu.github.io/hcz-jekyll-blog"
-url: "https://codeasashu.github.io/hcz-jekyll-blog"
+baseurl: "https://zhanzehong.github.io/hcz-jekyll-blog"
+url: "https://zhanzehong.github.io/hcz-jekyll-blog"
 
 allowsearch: true
 
