@@ -3,7 +3,6 @@ title: About
 layout: about
 ---
 
-![erictreacy (1).png](/uploads/erictreacy%20(1).png)
 
 
 ### Hello! 
